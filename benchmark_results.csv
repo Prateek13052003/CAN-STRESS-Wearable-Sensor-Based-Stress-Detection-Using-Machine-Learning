@@ -1,0 +1,13 @@
+model,accuracy,f1,precision,recall,auc,bal_acc
+"Gjoreski et al. 2017 (CAN-STRESS, SVM)",0.86,0.82,-,-,0.88,-
+"Gedam & Paul 2021 (RF, physiological)",0.84,0.8,-,-,0.85,-
+Bobade & Vani 2020 (SVM+EDA+HR+TEMP),0.8,0.78,-,-,0.83,-
+"Subramanian et al. 2020 (StressNet, CNN)",0.78,0.76,-,-,0.82,-
+XGBoost,0.921,0.042,0.023,0.369,0.791,0.646
+KNN (k=5),0.902,0.036,0.019,0.385,0.658,0.645
+Random Forest,0.89,0.033,0.017,0.393,0.778,0.643
+Gradient Boosting,0.868,0.032,0.017,0.459,0.783,0.664
+SVM (RBF),0.755,0.024,0.012,0.623,0.744,0.689
+Logistic Regression,0.718,0.016,0.008,0.492,0.651,0.605
+Dummy (stratified),0.502,0.009,0.005,0.484,0.493,0.493
+Dummy (majority),0.995,0.0,0.0,0.0,0.5,0.5
