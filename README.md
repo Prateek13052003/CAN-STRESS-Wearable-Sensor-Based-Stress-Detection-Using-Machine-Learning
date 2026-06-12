@@ -10,7 +10,7 @@ The project implements comprehensive signal preprocessing, feature engineering, 
 
 ## Dataset
 
-The project utilizes the CAN-STRESS dataset, which contains physiological recordings collected using Empatica E4 wristbands.
+The project utilizes the CAN-STRESS dataset, which contains physiological recordings collected using Empartica E4 wristbands.
 
 ### Physiological Signals Used
 
