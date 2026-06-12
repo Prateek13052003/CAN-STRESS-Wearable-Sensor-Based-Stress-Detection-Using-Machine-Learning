@@ -1,4 +1,4 @@
-# CAN-STRESS: Wearable Sensor-Based Stress Detection Using Machine Learning..
+# CAN-STRESS: Wearable Sensor-Based Stress Detection Using Machine Learning
 
 ## Overview
 
